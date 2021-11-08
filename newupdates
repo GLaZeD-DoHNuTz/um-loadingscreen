@@ -1,6 +1,8 @@
-- [NEW] MAP
-- [WIP] Pets
-- [WIP] Pet shop / Vet
-- [FIX] Garage systems for citizens, gangs, and jobs
-- [FIX] Police Vehicles
-- [FIX] Doorlocks for certain locations
+11-8-2021
+- Implementing the new notification system
+- Added new custom hacker phone
+- Adding more features to dispatch
+- Fix vehicle speed glitch
+- Updating some scripts for better functionality
+- Still working on implementing more 3rd eye
+- Still working on pets!
